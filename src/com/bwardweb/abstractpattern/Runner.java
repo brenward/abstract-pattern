@@ -1,10 +1,10 @@
-package main.java;
+package com.bwardweb.abstractpattern;
 
-import main.java.model.IrishPlug;
-import main.java.model.ThreePinAdapter;
-import main.java.model.ThreePinPlug;
-import main.java.model.TwoPinPlug;
-import main.java.model.USPlug;
+import com.bwardweb.abstractpattern.model.IrishPlug;
+import com.bwardweb.abstractpattern.model.ThreePinAdapter;
+import com.bwardweb.abstractpattern.model.ThreePinPlug;
+import com.bwardweb.abstractpattern.model.TwoPinPlug;
+import com.bwardweb.abstractpattern.model.USPlug;
 
 public class Runner {
 

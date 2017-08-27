@@ -1,4 +1,4 @@
-package main.java.model;
+package com.bwardweb.abstractpattern.model;
 
 public class IrishPlug implements ThreePinPlug{
 
